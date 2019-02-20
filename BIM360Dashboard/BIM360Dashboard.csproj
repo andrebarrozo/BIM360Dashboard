@@ -5,10 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="wwwroot\" />
+    <None Include="bim360issues.csproj" />
+    <None Include="wwwroot\index.html" />
   </ItemGroup>
 
   <ItemGroup>
+    <PackageReference Include="Autodesk.Forge" Version="1.5.2" />
     <PackageReference Include="Microsoft.AspNetCore.App" />
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
