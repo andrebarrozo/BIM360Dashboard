@@ -19,7 +19,7 @@
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 
-namespace bim360issues
+namespace BIM360Dashboard
 {
     public class Program
     {

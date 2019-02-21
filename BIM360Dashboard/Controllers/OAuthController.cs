@@ -25,7 +25,7 @@ using Microsoft.AspNetCore.Http;
 using System.Net;
 using Newtonsoft.Json.Linq;
 
-namespace bim360issues.Controllers
+namespace BIM360Dashboard.Controllers
 {
     public class OAuthController : ControllerBase
     {

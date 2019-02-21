@@ -25,7 +25,7 @@ using Autodesk.Forge.Model;
 using Newtonsoft.Json.Linq;
 using System.Net;
 
-namespace bim360issues.Controllers
+namespace BIM360Dashboard.Controllers
 {
     public class DataManagementController : ControllerBase
     {

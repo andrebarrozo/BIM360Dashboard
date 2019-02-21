@@ -22,7 +22,7 @@ using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
-namespace bim360issues
+namespace BIM360Dashboard
 {
     public class Startup
     {

@@ -25,7 +25,7 @@ using RestSharp;
 using System.Text;
 using System.Net;
 
-namespace bim360issues.Controllers
+namespace BIM360Dashboard.Controllers
 {
     public class BIM360Controller : ControllerBase
     {
