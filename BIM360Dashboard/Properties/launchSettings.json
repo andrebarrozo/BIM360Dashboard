@@ -3,7 +3,7 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:3000",
+      "applicationUrl": "http://bim360dashboards.apphb.com",
       "sslPort": 0
     }
   },
@@ -12,7 +12,7 @@
       "commandName": "IISExpress",
       "launchBrowser": true,
       "environmentVariables": {
-        "FORGE_CALLBACK_URL": "http://localhost:3000/api/forge/callback/oauth",
+        "FORGE_CALLBACK_URL": "http://bim360dashboards.apphb.com/api/forge/callback/oauth",
         "FORGE_CLIENT_SECRET": "vfs9b23GBtWKbFqu",
         "FORGE_CLIENT_ID": "cgAG7Iw7QZbkDIJOGCcNAS5lt5wmd5F4",
         "ASPNETCORE_ENVIRONMENT": "Development"
